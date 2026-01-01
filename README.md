@@ -110,35 +110,38 @@ val developer = Developer(
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HArTan9124&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/HArTan9124)
+<p align="center">
+  <a href="https://github.com/HArTan9124">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HArTan9124&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HArTan9124&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  </a>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HArTan9124&theme=radical&hide_border=false)](https://github.com/HArTan9124)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HArTan9124&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/HArTan9124)
-
-</div>
+<p align="center">
+  <a href="https://github.com/HArTan9124">
+    <img src="https://streak-stats.demolab.com/?user=HArTan9124&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  </a>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=HArTan9124&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/HArTan9124)
-
-</div>
+<p align="center">
+  <a href="https://github.com/HArTan9124">
+    <img src="https://github-profile-trophy.vercel.app/?username=HArTan9124&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  </a>
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HArTan9124&bg_color=141321&color=ff006e&line=f8d866&point=FFFFFF&area=true&hide_border=false)](https://github.com/HArTan9124)
-
-</div>
+<p align="center">
+  <a href="https://github.com/HArTan9124">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HArTan9124&bg_color=141321&color=ff006e&line=f8d866&point=FFFFFF&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+  </a>
+</p>
 
 ---
 
@@ -170,6 +173,6 @@ val developer = Developer(
   
 ### ⭐ From [HArTan9124](https://github.com/HArTan9124) with 💙
   
-  ![Snake animation](https://raw.githubusercontent.com/HArTan9124/HArTan9124/output/github-contribution-grid-snake.svg)
+**Thanks for visiting my profile!** Feel free to explore my repositories and connect with me.
   
 </div>
