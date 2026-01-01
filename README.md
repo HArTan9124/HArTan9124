@@ -108,37 +108,33 @@ val developer = Developer(
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HArTan9124&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HArTan9124&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HArTan9124&theme=tokyonight&hide_border=true&layout=compact&langs_count=10)
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HArTan9124&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HArTan9124&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" width="48%"/>
+</p>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=HArTan9124&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HArTan9124&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HArTan9124&theme=radical&utcOffset=5.5" alt="Productive Time" width="48%"/>
+</p>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 Achievements
 
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HArTan9124&theme=tokyo-night&hide_border=true&area=true)
-  
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HArTan9124&theme=radical&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📈 Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HArTan9124&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="98%"/>
+</p>
 
 ---
 
